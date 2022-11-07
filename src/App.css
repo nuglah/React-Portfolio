@@ -201,12 +201,14 @@
   /* background-color: #ddd; */
   color: rgb(187 156 252);
   list-style: none;
+  border-bottom: rgb(187 156 252);
 }
 
 .navbar__link--active {
   /* background-color: #ddd; */
   color: rgb(187 156 252);
   list-style: none;
+  border-bottom: rgb(187 156 252);
 }
 
 p {

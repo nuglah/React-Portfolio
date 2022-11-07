@@ -1,5 +1,6 @@
 import React from "react";
 import Github from "../assets/images/github.png";
+import Stack from "../assets/images/stack-overflow.png";
 import "../footer.css";
 
 function Footer() {
@@ -18,6 +19,12 @@ function Footer() {
             alt="LinkedIn"
             className="icon"
           />
+        </a>
+        <a
+          href="https://stackoverflow.com/users/18731014/user18731014"
+          target="_blank"
+        >
+          <img src={Stack} alt="Github" className="icon" />
         </a>
       </div>
     </div>
