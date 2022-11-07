@@ -13,28 +13,28 @@ function Navbar() {
           className="navbar__link"
           to="/about"
         >
-          ABOUT
+          About
         </NavLink>
         <NavLink
           activeClassName="navbar__link--active"
           className="navbar__link"
           to="/portfolio"
         >
-          PORTFOLIO
+          Portfolio
         </NavLink>
         <NavLink
           activeClassName="navbar__link--active"
           className="navbar__link"
           to="/contact"
         >
-          CONTACT
+          Contact
         </NavLink>
         <NavLink
           activeClassName="navbar__link--active"
           className="navbar__link"
           to="/resume"
         >
-          RESUME
+          Resume
         </NavLink>
       </div>
     </div>
