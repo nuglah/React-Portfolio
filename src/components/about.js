@@ -29,8 +29,6 @@ const About = () => {
                   </p>
                 </div>
               </div>
-
-              <div className="modal-footer" />
             </div>
           </div>
         </div>

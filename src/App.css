@@ -58,7 +58,6 @@
 }
 
 .footer {
-  background-color: #929fba;
   padding-top: 1rem;
 }
 
@@ -258,7 +257,7 @@ li {
 .code {
   font-size: 20px;
   font-weight: bold;
-  font-family: monospace;
+  font-family: Helvetica, sans-serif;
   display: block;
   unicode-bidi: embed;
   white-space: pre-line;
