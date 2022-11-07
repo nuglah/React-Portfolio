@@ -16,7 +16,7 @@ export default [
     id: 2,
     name: "Memorize",
     image: Memorize,
-    github: "https://github.com/nuglah/weather-app-client",
+    github: "https://github.com/nhastings1/project-2-flashdata",
   },
   {
     id: 3,
