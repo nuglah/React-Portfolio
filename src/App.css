@@ -205,8 +205,8 @@
 }
 
 .navbar__link--active {
-  /* background-color: #ddd; */
-  color: rgb(187 156 252);
+  background-color: rgb(187 156 252);
+  border-radius: 2px;
   list-style: none;
   border-bottom: rgb(187 156 252);
 }
@@ -226,32 +226,6 @@ p {
   font-weight: bold;
 }
 
-.title-job {
-  font-family: Arial;
-  font-size: 20px;
-  font-weight: bold;
-}
-
-.title-company {
-  font-family: Arial;
-  font-size: 17px;
-}
-
-.title-date {
-  font-family: Arial;
-  font-size: 12px;
-}
-
-.title-uni {
-  font-family: Arial;
-  font-size: 20px;
-}
-
-.title-concentration {
-  font-family: Arial;
-  font-size: 15px;
-}
-
 li {
   font-family: Arial;
 }
@@ -264,19 +238,6 @@ li {
   unicode-bidi: embed;
   white-space: pre-line;
   padding-bottom: 10px;
-}
-
-.work-exp {
-  margin: 3.7%;
-}
-
-.edu {
-  margin-left: 1.5%;
-}
-
-.company-logo {
-  float: right;
-  height: 70px;
 }
 
 .avatar {
@@ -304,8 +265,8 @@ li {
 }
 .btn:hover,
 .btn:active {
-  background-color: #dc5a26;
-  border: 3px solid #dc5a26;
+  background-color: lightblue;
+  border: 3px solid lightblue;
 }
 
 @media screen and (max-width: 980px) {
