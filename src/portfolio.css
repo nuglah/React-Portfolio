@@ -1,6 +1,6 @@
 :root {
   --primary-color: #101e3b;
-  --secondary-color: #79b0c7;
+  --secondary-color: rgb(187 156 252);
 }
 
 .grid-container {
@@ -99,7 +99,7 @@
 }
 
 .desc {
-  background-color: #a6d1d4;
+  background-color: rgb(187 156 252);
   color: var(--primary-color);
   padding: 5px 5px;
   position: absolute;

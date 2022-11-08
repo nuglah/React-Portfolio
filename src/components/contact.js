@@ -56,7 +56,7 @@ function Contact() {
 
             <Col sm={12} md={6} lg={8} className="pt-sm-4 pt-lg-0">
               <Container>
-                <h4 style={{ color: "#F06543" }}>Send a Message</h4>
+                <h4>Send a Message</h4>
                 <ContactForm />
               </Container>
             </Col>
