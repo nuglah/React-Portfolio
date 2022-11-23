@@ -11,7 +11,10 @@ const Resume = () => {
             <div className="card">
               <div className="header">
                 <h3>
-                  Download Resume: <a href="">Ryan Green</a>
+                  Download Resume:{" "}
+                  <a href="https://github.com/nuglah/week20-react-portfolio/raw/master/src/assets/Resume.pdf">
+                    Ryan Green
+                  </a>
                 </h3>
               </div>
 
