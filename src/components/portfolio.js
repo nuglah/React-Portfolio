@@ -25,6 +25,7 @@ const Portfolio = () => {
                       image={project.image}
                       name={project.name}
                       github={project.github}
+                      deploy={project.deploy}
                     />
                   ))}
                 </div>
