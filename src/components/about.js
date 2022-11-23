@@ -18,14 +18,23 @@ const About = () => {
               <div className="card-body">
                 <div className="row">
                   <p className="p-about">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                    ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                    Duis aute irure dolor in reprehenderit in voluptate velit
-                    esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-                    occaecat cupidatat non proident, sunt in culpa qui officia
-                    deserunt mollit anim id est laborum.
+                    Web developer with experience in making and maintaining
+                    powerful and user friendly web designs. I have completed a
+                    full stack web development bootcamp certificate program from
+                    the University of Kansas. With this program I developed
+                    skills and experience with technologies such as HTML, CSS,
+                    and Javascript, as well as database frameworks MySQL and
+                    MongoDb. I also have gained skills with modern application
+                    of Javascript with React.js. I’m very passionate about
+                    problem-solving and making web apps that make life easier
+                    and are also pleasant and easy to use. I have completed
+                    several projects, working with many other learning
+                    developers using these skills to make functional web apps.
+                    I’m hoping to use my new found skills and experience and
+                    apply them to real world problems and be a part of creating
+                    apps that are powerful and serve their purpose, but also
+                    apps that people want to use for their ease of use and
+                    simple design.
                   </p>
                 </div>
               </div>
