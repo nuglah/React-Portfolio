@@ -1,9 +1,9 @@
 import Unburied from "./assets/images/unburied.png";
-import Memorize from "./assets/images/Memorize.png";
 import Weather from "./assets/images/Weather.png";
 import Notes from "./assets/images/Notes.png";
 import Work from "./assets/images/Work.png";
 import Social from "./assets/images/Social.png";
+import Tutorial from "./assets/images/Tutorial.png";
 
 export default [
   {
@@ -15,10 +15,10 @@ export default [
   },
   {
     id: 2,
-    name: "Memorize",
-    image: Memorize,
-    github: "https://github.com/nhastings1/project-2-flashdata",
-    deploy: "https://nameless-hamlet-43462.herokuapp.com/",
+    name: "HTML Tutorial",
+    image: Tutorial,
+    github: "https://github.com/PierTwo/HTML-For-Beginners",
+    deploy: "https://lit-bayou-05963.herokuapp.com/",
   },
   {
     id: 3,
