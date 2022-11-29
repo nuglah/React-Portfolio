@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/week20-react-portfolio/static/css/main.08476069.chunk.css",
-    "main.js": "/week20-react-portfolio/static/js/main.68e0dbfb.chunk.js",
-    "main.js.map": "/week20-react-portfolio/static/js/main.68e0dbfb.chunk.js.map",
+    "main.js": "/week20-react-portfolio/static/js/main.122f4856.chunk.js",
+    "main.js.map": "/week20-react-portfolio/static/js/main.122f4856.chunk.js.map",
     "runtime-main.js": "/week20-react-portfolio/static/js/runtime-main.8a13dafc.js",
     "runtime-main.js.map": "/week20-react-portfolio/static/js/runtime-main.8a13dafc.js.map",
     "static/css/2.560b9325.chunk.css": "/week20-react-portfolio/static/css/2.560b9325.chunk.css",
     "static/js/2.b0073e95.chunk.js": "/week20-react-portfolio/static/js/2.b0073e95.chunk.js",
     "static/js/2.b0073e95.chunk.js.map": "/week20-react-portfolio/static/js/2.b0073e95.chunk.js.map",
     "index.html": "/week20-react-portfolio/index.html",
-    "precache-manifest.7fec2696116aab03a36799c53bcf1d30.js": "/week20-react-portfolio/precache-manifest.7fec2696116aab03a36799c53bcf1d30.js",
+    "precache-manifest.5697ff54694e542ad3ac6126836cdfad.js": "/week20-react-portfolio/precache-manifest.5697ff54694e542ad3ac6126836cdfad.js",
     "service-worker.js": "/week20-react-portfolio/service-worker.js",
     "static/css/2.560b9325.chunk.css.map": "/week20-react-portfolio/static/css/2.560b9325.chunk.css.map",
     "static/css/main.08476069.chunk.css.map": "/week20-react-portfolio/static/css/main.08476069.chunk.css.map",
     "static/js/2.b0073e95.chunk.js.LICENSE.txt": "/week20-react-portfolio/static/js/2.b0073e95.chunk.js.LICENSE.txt",
-    "static/media/Memorize.png": "/week20-react-portfolio/static/media/Memorize.377aef5d.png",
     "static/media/Notes.png": "/week20-react-portfolio/static/media/Notes.4e4420fa.png",
     "static/media/Social.png": "/week20-react-portfolio/static/media/Social.e1497e86.png",
+    "static/media/Tutorial.png": "/week20-react-portfolio/static/media/Tutorial.6838908c.png",
     "static/media/Weather.png": "/week20-react-portfolio/static/media/Weather.82b4ce4f.png",
     "static/media/Work.png": "/week20-react-portfolio/static/media/Work.8af9bc91.png",
     "static/media/App.css": "/week20-react-portfolio/static/media/abstract.219f4b65.jpg",
@@ -27,6 +27,6 @@
     "static/css/2.560b9325.chunk.css",
     "static/js/2.b0073e95.chunk.js",
     "static/css/main.08476069.chunk.css",
-    "static/js/main.68e0dbfb.chunk.js"
+    "static/js/main.122f4856.chunk.js"
   ]
 }
