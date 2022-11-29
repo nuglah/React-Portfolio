@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fa9376537e34f98df8481075f7a6dd4b",
+    "revision": "1afcf0d03e7330d3e8d8df8013026536",
     "url": "/week20-react-portfolio/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/week20-react-portfolio/static/css/2.560b9325.chunk.css"
   },
   {
-    "revision": "55c2841d54aa8c8020d7",
+    "revision": "ac811d98aaf755b84bdc",
     "url": "/week20-react-portfolio/static/css/main.08476069.chunk.css"
   },
   {
@@ -20,16 +20,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/week20-react-portfolio/static/js/2.b0073e95.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "55c2841d54aa8c8020d7",
-    "url": "/week20-react-portfolio/static/js/main.68e0dbfb.chunk.js"
+    "revision": "ac811d98aaf755b84bdc",
+    "url": "/week20-react-portfolio/static/js/main.122f4856.chunk.js"
   },
   {
     "revision": "8b65dac26fe4f4867d46",
     "url": "/week20-react-portfolio/static/js/runtime-main.8a13dafc.js"
-  },
-  {
-    "revision": "377aef5dc2dfb6c73c7568c9d3024677",
-    "url": "/week20-react-portfolio/static/media/Memorize.377aef5d.png"
   },
   {
     "revision": "4e4420faf0dcd82104e77d75af0bd050",
@@ -38,6 +34,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e1497e86a7b7bf375c2f9a3359b22501",
     "url": "/week20-react-portfolio/static/media/Social.e1497e86.png"
+  },
+  {
+    "revision": "6838908c7a430ac8c5d6aa5dce3bae89",
+    "url": "/week20-react-portfolio/static/media/Tutorial.6838908c.png"
   },
   {
     "revision": "82b4ce4f1cba110cf2d0c44d9b8a3027",
