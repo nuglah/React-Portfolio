@@ -37,6 +37,14 @@ const About = () => {
                     simple design.
                   </p>
                 </div>
+                <div className="modal-footer" />
+                <p>
+                  <img
+                    src="https://img.icons8.com/material-rounded/24/null/mail-account.png"
+                    alt=""
+                  />
+                  thisisanemailaddressthatis@gmail.com
+                </p>
               </div>
             </div>
           </div>
