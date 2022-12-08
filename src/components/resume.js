@@ -12,7 +12,11 @@ const Resume = () => {
               <div className="header">
                 <h3>
                   Download Resume:{" "}
-                  <a href="https://github.com/nuglah/week20-react-portfolio/blob/main/src/assets/Resume.pdf">
+                  <a
+                    href="https://github.com/nuglah/week20-react-portfolio/blob/main/src/assets/Resume.pdf"
+                    rel="noopener noreferrer"
+                    target="_blank"
+                  >
                     Ryan Green
                   </a>
                 </h3>
