@@ -8,7 +8,7 @@ const Resume = () => {
       <div className="container">
         <div className="row">
           <div className="col">
-            <div className="card">
+            <div className="card bg-dark text-light">
               <div className="header">
                 <h3>
                   Download Resume:{" "}

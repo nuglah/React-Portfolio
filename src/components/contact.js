@@ -8,16 +8,16 @@ import "../App.css";
 
 function Contact() {
   return (
-    <div className="container">
-      <Jumbotron fluid className="p-5 mb-0">
+    <div className="container bg-dark text-light">
+      <Jumbotron fluid className="p-5 mb-0 bg-dark text-light">
         <Container className="text-center">
           <div className="p-md-5">
-            <h1>Contact Form</h1>
+            <h1 className="text-light">Contact Form</h1>
           </div>
         </Container>
       </Jumbotron>
 
-      <Container fluid className="shadow bg-light mb-5">
+      <Container fluid className="shadow bg-dark mb-5 ">
         <Container className="p-4">
           <Row>
             {/* <Col>

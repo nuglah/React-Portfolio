@@ -8,7 +8,7 @@ const About = () => {
       <div className="container">
         <div className="row">
           <div className="col">
-            <div className="card">
+            <div className="card bg-dark text-light">
               <div className="card-body">
                 <div className="row abstract-back ">
                   <img className="avatar" src={Avatar} />

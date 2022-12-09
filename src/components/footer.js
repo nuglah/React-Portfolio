@@ -1,6 +1,7 @@
 import React from "react";
 import Github from "../assets/images/github.png";
 import Stack from "../assets/images/stack-overflow.png";
+import Link from "../assets/images/link.png";
 import "../footer.css";
 
 function Footer() {
@@ -14,11 +15,7 @@ function Footer() {
           href="https://www.linkedin.com/in/ryan-green-36a157237/"
           target="_blank"
         >
-          <img
-            src="https://img.icons8.com/color/48/000000/linkedin.png"
-            alt="LinkedIn"
-            className="icon"
-          />
+          <img src={Link} alt="LinkedIn" className="icon" />
         </a>
         <a
           href="https://stackoverflow.com/users/18731014/user18731014"

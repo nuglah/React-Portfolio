@@ -10,7 +10,7 @@ const Portfolio = () => {
       <div className="container">
         <div className="row">
           <div className="col">
-            <div className="card">
+            <div className="card bg-dark text-light">
               <div className="card-body">
                 <div className="header">
                   <h3>Portfolio</h3>
@@ -26,6 +26,8 @@ const Portfolio = () => {
                       name={project.name}
                       github={project.github}
                       deploy={project.deploy}
+                      description={project.description}
+                      technical={project.technical}
                     />
                   ))}
                 </div>
