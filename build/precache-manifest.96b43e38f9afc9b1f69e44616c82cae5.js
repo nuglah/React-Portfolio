@@ -1,39 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0faa902206b9a26ac7ca9d81b8e3875c",
+    "revision": "38b7546bcbff2362ee8ed1b99bd9528f",
     "url": "/React-Portfolio/index.html"
   },
   {
-    "revision": "d9449f4adf66e342e4dc",
+    "revision": "12f75b6e709a414177be",
     "url": "/React-Portfolio/static/css/2.560b9325.chunk.css"
   },
   {
-    "revision": "995e9aa4fbc328b7982d",
-    "url": "/React-Portfolio/static/css/main.0501d737.chunk.css"
+    "revision": "8f89b72df52dc872c5df",
+    "url": "/React-Portfolio/static/css/main.471d899c.chunk.css"
   },
   {
-    "revision": "d9449f4adf66e342e4dc",
-    "url": "/React-Portfolio/static/js/2.b0073e95.chunk.js"
+    "revision": "12f75b6e709a414177be",
+    "url": "/React-Portfolio/static/js/2.92b157da.chunk.js"
   },
   {
     "revision": "35f1a3ca561e93b64bcba705f76bd30f",
-    "url": "/React-Portfolio/static/js/2.b0073e95.chunk.js.LICENSE.txt"
+    "url": "/React-Portfolio/static/js/2.92b157da.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "995e9aa4fbc328b7982d",
-    "url": "/React-Portfolio/static/js/main.170b9b48.chunk.js"
+    "revision": "8f89b72df52dc872c5df",
+    "url": "/React-Portfolio/static/js/main.94032edb.chunk.js"
   },
   {
     "revision": "44c7ebc3cfea037ef8d9",
     "url": "/React-Portfolio/static/js/runtime-main.cb3cf7cc.js"
   },
   {
-    "revision": "4e4420faf0dcd82104e77d75af0bd050",
-    "url": "/React-Portfolio/static/media/Notes.4e4420fa.png"
+    "revision": "f4f3f2b090265d7e0c359ab4c6a88bc1",
+    "url": "/React-Portfolio/static/media/Jate.f4f3f2b0.png"
   },
   {
-    "revision": "e1497e86a7b7bf375c2f9a3359b22501",
-    "url": "/React-Portfolio/static/media/Social.e1497e86.png"
+    "revision": "8a3339a08f1b857e0e2fc616ccc0803c",
+    "url": "/React-Portfolio/static/media/Notes.8a3339a0.png"
+  },
+  {
+    "revision": "54f301ae22edd5d258332d3a066a3cd9",
+    "url": "/React-Portfolio/static/media/Read.54f301ae.png"
   },
   {
     "revision": "6838908c7a430ac8c5d6aa5dce3bae89",
