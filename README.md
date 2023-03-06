@@ -7,7 +7,7 @@ A single paged portfolio made using react. Sepearte sections for about, portfoli
 ## Installation
 
 Deployed to Github pages
-https://nuglah.github.io/week20-react-portfolio/#/about
+https://nuglah.github.io/React-Portfolio/#/about
 
 ## Usage
 
